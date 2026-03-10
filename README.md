@@ -1,2 +1,2 @@
-# Fixed-Income-Projects
-During my courses at Uni_lu we have gone through financial models for options, yield curves, interest rates, hedging, portfolio construction and so on.  The scope of this repository is to show control and understanding of these models, bringing theoretical concepts into something more tangible
+# Quantiative Finance & Financial Modeling 
+Developed a series of financial models and quantitative tools in Python to analyze asset valuation, risk, and portfolio performance. Implemented valuation models including Discounted Cash Flow (DCF) and Leveraged Buyout (LBO) analysis, as well as option pricing using the Black–Scholes model. Built stochastic models such as Vasicek interest rate simulations and Monte Carlo frameworks for pricing and risk analysis. Additionally designed portfolio management and optimization tools to evaluate asset allocation and performance under different market scenarios.
