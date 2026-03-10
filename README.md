@@ -1,2 +1,2 @@
-# Quantiative Finance & Financial Modeling 
+# Quantitative Finance & Financial Modeling 
 Developed a series of financial models and quantitative tools in Python to analyze asset valuation, risk, and portfolio performance. Implemented valuation models including Discounted Cash Flow (DCF) and Leveraged Buyout (LBO) analysis, as well as option pricing using the Black–Scholes model. Built stochastic models such as Vasicek interest rate simulations and Monte Carlo frameworks for pricing and risk analysis. Additionally designed portfolio management and optimization tools to evaluate asset allocation and performance under different market scenarios.
